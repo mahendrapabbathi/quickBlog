@@ -1,6 +1,4 @@
 import React, { useEffect, useState } from 'react'
-import { blog_data } from '../../assets/assets'
-import { useSearchParams } from 'react-router-dom'
 import BlogTableItem from '../../components/Admin/BlogTableItem'
 import { useAppContext } from '../../context/AppContext'
 
